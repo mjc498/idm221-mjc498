@@ -25,24 +25,29 @@ Outside of my academic and professional life, I pursue many hobbies such as pain
 
 **Drexel University**
 September 2021 - June 2027 | Philadelphia, PA
+
 Bachelor of Science in User Experience & Interface Design
+
 GPA: 3.41
 
 **EXPERIENCE**
 
 **W.W. Hagerty | Philadelphia, PA**
+
 Library Integrated Technology Assistant | October 2021 - July 2022
 * Assist staff and library patrons with computer-related complications
 * Implement project plans based on meta-literacy skills
 * Update computer equipment and electronic devices 
 
 **Comcast Corporation**
+
 Co-Op, Corporate DE&I Public Policy | September 2022 - March 2023 
 * Assist in analysis and recommendations on policy challenges 
 * Collect, draft, and analyze feedback from key stakeholders
 * Provide administrative and project management support 
 
 **Moshulu Restaurant | Philadelphia, PA**
+
 Hostess | April 2023 - Present
 * Answer telephones, confirm reservations, show guests to tables
 * Deliver accurate messaging to both guests and teammates
