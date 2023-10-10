@@ -24,6 +24,7 @@ Outside of my academic and professional life, I pursue many hobbies such as pain
 **EDUCATION**
 
 **Drexel University**
+
 September 2021 - June 2027 | Philadelphia, PA
 
 Bachelor of Science in User Experience & Interface Design
@@ -79,3 +80,17 @@ Ching, Maria-Louisa. *Citrus* (2021). Watercolor on paper.
 
 ![Alt text](smiles-1.jpg) 
 Ching, Maria-Louisa. *Smiles* (2021). Watercolor on paper. 
+
+
+**Photography**
+
+![Alt text](<Photo 1.jpeg>) 
+
+
+![Alt text](<Photo 2.jpeg>) 
+
+
+![Alt text](<Photo 3.jpeg>) 
+
+
+![Alt text](<Photo 4.jpeg>)  
