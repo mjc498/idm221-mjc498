@@ -26,3 +26,5 @@ Outside of my academic and professional life, I pursue many hobbies such as pain
 ![Alt text](warm_waters.jpg) 
 Ching, Maria-Louisa. *Warm Waters* (2021). Watercolor on paper. 
 
+![Alt text](all_around-1.jpg)
+Ching, Maria-Louisa. *All Around* (2021). Watercolor on paper. 
