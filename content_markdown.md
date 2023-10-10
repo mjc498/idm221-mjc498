@@ -20,7 +20,7 @@ I found out about Drexel’s User Experience and Interactive Design program duri
 I am a first generation college student, born and raised in Northeast Philadelphia! I grew up in a Chinese-Filipino household as the middle child. 
 Outside of my academic and professional life, I pursue many hobbies such as painting, reading, taking pictures, enjoying nature, and exploring the city of Philadelphia! I’m also a huge foodie and love to try new foods. 
 
-### R E S U M E
+## R E S U M E
 **EDUCATION**
 
 **Drexel University**
@@ -62,7 +62,7 @@ January 2023 - Present
 **Editor | Psi Chi Magazine**
 April 2022 - Present
 
-#### P O R T F O L I O
+## P O R T F O L I O
 **Paintings** 
 
 ![Alt text](warm_waters.jpg) 
