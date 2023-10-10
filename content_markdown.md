@@ -22,12 +22,14 @@ Outside of my academic and professional life, I pursue many hobbies such as pain
 
 ### R E S U M E
 **EDUCATION**
+
 **Drexel University**
 September 2021 - June 2027 | Philadelphia, PA
 Bachelor of Science in User Experience & Interface Design
 GPA: 3.41
 
 **EXPERIENCE**
+
 **W.W. Hagerty | Philadelphia, PA**
 Library Integrated Technology Assistant | October 2021 - July 2022
 * Assist staff and library patrons with computer-related complications
@@ -48,6 +50,7 @@ Hostess | April 2023 - Present
 
 
 **ACIVITIES**
+
 **Ambassador | Drexel Student Ambassador Program**
 January 2023 - Present
 
