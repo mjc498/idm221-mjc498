@@ -70,13 +70,13 @@ April 2022 - Present
 ![Alt text](/images/warm_waters.jpg) 
 Ching, Maria-Louisa. *Warm Waters* (2021). Watercolor on paper. 
 
-![Alt text](/images/all_around-1.jpg)
+![Alt text](/images/all_around.jpg)
 Ching, Maria-Louisa. *All Around* (2021). Watercolor on paper. 
 
-![Alt text](/images/citrus-1.jpg)
+![Alt text](/images/citrus.jpg)
 Ching, Maria-Louisa. *Citrus* (2020). Watercolor on paper. 
 
-![Alt text](/images/smiles-1.jpg) 
+![Alt text](/images/smiles.jpg) 
 Ching, Maria-Louisa. *Smiles* (2021). Watercolor on paper. 
 
 **Photography**
