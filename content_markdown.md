@@ -67,30 +67,30 @@ April 2022 - Present
 #### P O R T F O L I O
 **Paintings** 
 
-![Alt text](/images/warm_waters.jpg) 
+![Alt text](/images/painting_1.jpg) 
 Ching, Maria-Louisa. *Warm Waters* (2021). Watercolor on paper. 
 
-![Alt text](/images/all_around.jpg)
+![Alt text](/images/painting_2.jpg)
 Ching, Maria-Louisa. *All Around* (2021). Watercolor on paper. 
 
-![Alt text](/images/citrus.jpg)
+![Alt text](/images/painting_3.jpg)
 Ching, Maria-Louisa. *Citrus* (2020). Watercolor on paper. 
 
-![Alt text](/images/smiles.jpg) 
+![Alt text](/images/painting_4.jpg) 
 Ching, Maria-Louisa. *Smiles* (2021). Watercolor on paper. 
 
 **Photography**
 
-![Alt text](</images/Photo 1.jpeg>) 
+![Alt text](</images/photo_1.jpeg>) 
 Ching, Maria-Louisa. *City Views* (2023). iPhone XR camera.
 
-![Alt text](</images/Photo 2.jpeg>) 
+![Alt text](</images/photo_2.jpeg>) 
 Ching, Maria-Louisa. *Book House* (2023). iPhone XR camera.
 
-![Alt text](</images/Photo 3.jpeg>) 
+![Alt text](</images/photo_3.jpeg>) 
 Ching, Maria-Louisa. *College Lamp* (2023). iPhone XR camera.
 
-![Alt text](</images/Photo 4.jpeg>)  
+![Alt text](</images/photo_4.jpeg>)  
 Ching, Maria-Louisa. *Cute Turtles* (2023). iPhone XR camera.
 
 
