@@ -21,7 +21,7 @@ I found out about Drexel’s User Experience and Interactive Design program duri
 Outside of my academic and professional life, I pursue many hobbies such as painting, reading, taking pictures, enjoying nature, and exploring the city of Philadelphia! I am also a huge foodie and love to try new things. 
 
 ### R E S U M E
-<ins>EDUCATION</ins>
+**EDUCATION**
 
 **Drexel University | Philadelphia, PA**
 
