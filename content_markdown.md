@@ -94,7 +94,7 @@ Ching, Maria-Louisa. *College Lamp* (2023). iPhone XR camera.
 Ching, Maria-Louisa. *Cute Turtles* (2023). iPhone XR camera.
 
 
-## C O N T A C T  I N F O 
+##### C O N T A C T  I N F O 
 **LinkedIn**
 * https://www.linkedin.com/in/maria-louisa-ching/ 
 
