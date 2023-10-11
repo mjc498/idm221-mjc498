@@ -74,7 +74,7 @@ Ching, Maria-Louisa. *Warm Waters* (2021). Watercolor on paper.
 Ching, Maria-Louisa. *All Around* (2021). Watercolor on paper. 
 
 ![Alt text](/images/citrus-1.jpg)
-Ching, Maria-Louisa. *Citrus* (2021). Watercolor on paper. 
+Ching, Maria-Louisa. *Citrus* (2020). Watercolor on paper. 
 
 ![Alt text](/images/smiles-1.jpg) 
 Ching, Maria-Louisa. *Smiles* (2021). Watercolor on paper. 
@@ -100,4 +100,4 @@ Ching, Maria-Louisa. *Cute Turtles* (2023). iPhone XR camera.
 
 **Emails**
 * mjc498@drexel.edu
-* mlching87@gmail.com 
+* mlching87@gmail.com
