@@ -1,7 +1,9 @@
 # H O M E
 
 **Maria-Louisa Ching**
+
 *User Experience and Interface Design Major*
+
 College of Media Arts and Design
 
 ## A B O U T  M E
