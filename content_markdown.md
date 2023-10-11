@@ -63,37 +63,54 @@ January 2023 - Present
 **Editor | Psi Chi Magazine**
 April 2022 - Present
 
+
 ## P O R T F O L I O
 **Paintings** 
 
 ![Alt text](warm_waters.jpg) 
-Ching, Maria-Louisa. *Warm Waters* (2021). Watercolor on paper. 
+Ching, Maria-Louisa. 2021. Watercolor on paper. 
 
 
 
 ![Alt text](all_around-1.jpg)
-Ching, Maria-Louisa. *All Around* (2021). Watercolor on paper. 
+Ching, Maria-Louisa. 2021. Watercolor on paper. 
 
 
 
 ![Alt text](citrus-1.jpg)
-Ching, Maria-Louisa. *Citrus* (2021). Watercolor on paper. 
+Ching, Maria-Louisa. 2021. Watercolor on paper. 
 
 
 
 ![Alt text](smiles-1.jpg) 
-Ching, Maria-Louisa. *Smiles* (2021). Watercolor on paper. 
+Ching, Maria-Louisa. 2021. Watercolor on paper. 
 
 
 **Photography**
 
 ![Alt text](<Photo 1.jpeg>) 
+Ching, Maria-Louisa. 2023. iPhone XR camera.
+
 
 
 ![Alt text](<Photo 2.jpeg>) 
+Ching, Maria-Louisa. 2023. iPhone XR camera.
+
 
 
 ![Alt text](<Photo 3.jpeg>) 
+Ching, Maria-Louisa. 2023. iPhone XR camera.
+
 
 
 ![Alt text](<Photo 4.jpeg>)  
+Ching, Maria-Louisa. 2023. iPhone XR camera.
+
+
+## C O N T A C T  I N F O 
+**LinkedIn**
+![Link text](https://www.linkedin.com/in/maria-louisa-ching/) 
+
+**Emails**
+* mjc498@drexel.edu
+* mlching87@gmail.com 
