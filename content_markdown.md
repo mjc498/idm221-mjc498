@@ -1,12 +1,12 @@
-# H O M E
+# HOME
 
 MARIA-LOUISA CHING
 
-User Experience and Interacrive Design Major
+User Experience and Interactive Design Major
 
 College of Media Arts and Design
 
-## A B O U T  M E
+## ABOUT ME
 
 **Professional**:
 
@@ -19,7 +19,7 @@ I found out about Drexel’s User Experience and Interactive Design program duri
 
 Outside of my academic and professional life, I pursue many hobbies such as painting, reading, taking pictures, enjoying nature, and exploring the city of Philadelphia! I am also a huge foodie and love to try new things.
 
-### R E S U M E
+### RESUME
 
 **EDUCATION**
 \
@@ -62,7 +62,7 @@ January 2023 - Present
 * **Editor | Psi Chi Magazine**
 April 2022 - Present
 
-#### P O R T F O L I O
+#### PORTFOLIO
 
 **Paintings**
 
@@ -92,7 +92,7 @@ Ching, Maria-Louisa. *College Lamp* (2023). iPhone XR camera.
 ![Alt text](</images/photo_4.jpeg>)  
 Ching, Maria-Louisa. *Cute Turtles* (2023). iPhone XR camera.
 
-##### C O N T A C T  I N F O
+##### CONTACT INFO
 
 **LinkedIn**
 
