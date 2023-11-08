@@ -1,0 +1,26 @@
+@font-face {
+    font-family: bevan;
+    src: url(../fonts/bevan/regular.ttf) format("truetype");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: bevan;
+    src: url(../fonts/bevan/italic.ttf) format("truetype");
+    font-weight: 100;
+    font-style: italic;
+}
+
+* {
+    background-color: #D4E7F8;
+    color: #20254F;
+}
+
+body {
+    font-family: bevan;
+}
+
+h1 {
+    background-color: #5E829C;
+}
