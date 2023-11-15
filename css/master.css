@@ -1,0 +1,91 @@
+@font-face {
+    font-family: bevan;
+    src: url(../fonts/bevan/bevan_regular.ttf) format("truetype");
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: bevan;
+    src: url(../fonts/bevan/bevan_italic.ttf) format("truetype");
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: koho;
+    src: url(../fonts/koho/koho_bold.ttf) format("truetype");
+    font-weight: 100;
+    font-style: bold;
+}
+
+* {
+    background-color: #D4E7F8;
+    color: #20254F;
+}
+
+body {
+    font-family: koho;
+}
+
+h1 {
+    background-color: #5E829C;
+    border-radius: 25px;
+    padding: 20px;
+    width: auto;
+    height: auto;
+    text-align: center;
+    font-family: bevan;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+:root {
+    --bar-width: 60px;
+    --bar-height: 8px;
+    --hamburger-gap: 6px;
+    --foreground: #20254F; 
+    --background: #D4E7F8;
+    --hamburger-margin: 8px;
+    --animation-timing: 200ms ease-in-out;
+}
+
+.hamburger-menu {
+    display: flex;
+    flex-direction: column;
+    gap: var(--hamburger-gap);
+    width: max-content;
+    position: absolute;
+    top: var(--hamburger-margin);
+    left: var(--hamburger-margin);
+    z-index: 2;
+    cursor: pointer;
+}
+
+.hamburger-menu::before,
+.hamburger-menu::after,
+.hamburger-menu input {
+    content: "";
+    width: var(--bar-width);
+    height: var(--bar-height);
+    background-color: var(--foreground);
+    border-radius: 9999px;
+    transition: opacity var(--animation-timing), width var (--animation-timing);
+}
+
+.hamburger-menu input {
+    appearance: none;
+    padding: 0;
+    margin: 0;
+    outline: none;
+    pointer-events: none;
+}
+
+.hamburger-menu input:checked {
+    opacity: 0;
+    width: 0;
+}
