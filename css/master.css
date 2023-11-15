@@ -23,4 +23,12 @@ body {
 
 h1 {
     background-color: #5E829C;
+    border: 5px solid #5E829C;
+    padding: 20px;
+    width: 275px;
+    text-align: center;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;  
 }
+
