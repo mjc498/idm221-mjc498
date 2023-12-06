@@ -16,13 +16,17 @@
     font-weight: 100;
     font-style: bold;
 }
+
 * {
     background-color: #D4E7F8;
     color: #20254F;
 }
+
 body {
     font-family: koho;
 }
+
+/*home page*/
 h1 {
     background-color: #5E829C;
     border-radius: 25px;
@@ -33,3 +37,17 @@ h1 {
     font-family: bevan;
 }
 
+.image_headshot {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   padding-top: 5%;
+   padding-bottom: 5%;
+   width: 85%;
+}
+
+.home_text {
+    font-size:xx-large;
+    text-align: center;
+}
+/*end of home page*/
