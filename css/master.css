@@ -80,3 +80,26 @@ h1 {
     padding-bottom: 20%; 
 }
 /*end of about page*/
+
+/*about_professional page*/ 
+.professional_header {
+    font-family: bevan;
+    font-size: large;
+    text-align: left;
+}
+
+.image_1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10%;
+}
+/*end of about_professional page*/
+
+/*about_personal*/
+.personal_header {
+    font-family: bevan;
+    font-size: large;
+    text-align: left;
+}
+/*end of about_personal*/
