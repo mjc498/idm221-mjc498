@@ -1,3 +1,4 @@
+/*fonts*/
 @font-face {
     font-family: bevan;
     src: url(../fonts/bevan/bevan_regular.ttf) format("truetype");
@@ -16,10 +17,19 @@
     font-weight: 100;
     font-style: bold;
 }
+/*end of fonts*/ 
 
 * {
-    background-color: #D4E7F8;
-    color: #20254F;
+    --primary-surface: #D4E7F8;
+    --primary-text: #20254F;
+    --main-background: #D4E7F8;
+    --textbox-background: #5E829C;
+    --footer-background: #5E829C;
+    --heading-text: #20254F;
+    --accent-text: #E09C9C;
+
+    background-color: var(--primary-surface);
+    color: var(--primary-text);
 }
 
 body {
@@ -28,7 +38,7 @@ body {
 
 /*home page*/
 h1 {
-    background-color: #5E829C;
+    background-color: var(--textbox-background);
     border-radius: 25px;
     padding: 20px;
     width: auto;
@@ -52,3 +62,21 @@ h1 {
     text-align: center;
 }
 /*end of home page*/
+
+/*about page*/
+.professional {
+    font-family: bevan;
+    font-size: x-large;
+    text-align: center;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+.personal {
+    font-family: bevan;
+    font-size: x-large;
+    text-align: center;
+    padding-top: 20%;
+    padding-bottom: 20%; 
+}
+/*end of about page*/
