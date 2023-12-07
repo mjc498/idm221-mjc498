@@ -17,8 +17,8 @@
     font-weight: 100;
     font-style: bold;
 }
-/*end of fonts*/ 
 
+/*colors*/
 * {
     --primary-surface: #D4E7F8;
     --primary-text: #20254F;
@@ -32,11 +32,12 @@
     color: var(--primary-text);
 }
 
+/*everything*/
 body {
     font-family: koho;
 }
 
-/*home page*/
+/*home*/
 h1 {
     background-color: var(--textbox-background);
     border-radius: 25px;
@@ -47,7 +48,7 @@ h1 {
     font-family: bevan;
 }
 
-.image_headshot {
+.image_1 {
    display: block;
    margin-left: auto;
    margin-right: auto;
@@ -61,10 +62,10 @@ h1 {
     font-size: medium;
     text-align: center;
 }
-/*end of home page*/
 
-/*about page*/
-.professional {
+/*about*/
+.professional,
+.personal {
     font-family: bevan;
     font-size: x-large;
     text-align: center;
@@ -72,29 +73,19 @@ h1 {
     padding-bottom: 20%;
 }
 
-.personal {
-    font-family: bevan;
-    font-size: x-large;
-    text-align: center;
-    padding-top: 20%;
-    padding-bottom: 20%; 
-}
-/*end of about page*/
-
-/*about_professional page*/ 
+/*about_professional*/ 
 .professional_header {
     font-family: bevan;
     font-size: large;
     text-align: left;
 }
 
-.image_1 {
+.image_2 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 10%;
+    margin-bottom: 0%;
 }
-/*end of about_professional page*/
 
 /*about_personal*/
 .personal_header {
@@ -102,4 +93,35 @@ h1 {
     font-size: large;
     text-align: left;
 }
-/*end of about_personal*/
+
+.image_3,
+.image_4,
+.image_5,
+.image_6 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0%;
+}
+
+/*resume*/
+.education,
+.experience {
+    font-size: large;
+    line-height: 0%;
+}
+
+.drexel,
+.comcast,
+.library,
+.class {
+    line-height: 50%;
+}
+
+.activities {
+    margin-bottom: 0%;
+}
+
+.ambassador {
+    margin-top: 0%;
+}
