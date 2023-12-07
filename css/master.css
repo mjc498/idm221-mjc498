@@ -47,7 +47,8 @@ h1 {
 }
 
 .home_text {
-    font-size:xx-large;
+    font-family: bevan;
+    font-size: medium;
     text-align: center;
 }
 /*end of home page*/
