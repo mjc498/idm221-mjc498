@@ -18,6 +18,13 @@
     font-style: bold;
 }
 
+@font-face {
+    font-family: koho_semibold;
+    src: url(../fonts/koho/koho_semibold.ttf) format("truetype");
+    font-weight: 100;
+    font-style: semibold;
+}
+
 /*colors*/
 * {
     --primary-surface: #D4E7F8;
@@ -32,7 +39,6 @@
     color: var(--primary-text);
 }
 
-/*everything*/
 body {
     font-family: koho;
 }
@@ -64,36 +70,36 @@ h1 {
 }
 
 /*about*/
-.professional,
+.professional {
+    font-family: bevan;
+    font-size: x-large;
+    text-align: center;
+    padding-top: 30%;
+    padding-bottom: 20%;
+}
+
 .personal {
     font-family: bevan;
     font-size: x-large;
     text-align: center;
-    padding-top: 20%;
-    padding-bottom: 20%;
+    padding-top: 5%;
 }
 
-/*about_professional*/ 
-.professional_header {
-    font-family: bevan;
-    font-size: large;
-    text-align: left;
-}
-
-.image_2 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 0%;
+/*about_professional*/
+.image_2caption,
+.boots,
+.cal,
+.jomon,
+.pizza,
+.painting_1caption,
+.painting_2caption,
+.painting_3caption,
+.painting_4caption {
+    font-family: koho_semibold
 }
 
 /*about_personal*/
-.personal_header {
-    font-family: bevan;
-    font-size: large;
-    text-align: left;
-}
-
+.image_2,
 .image_3,
 .image_4,
 .image_5,
@@ -105,7 +111,11 @@ h1 {
 }
 
 /*resume*/
-.education,
+.education {
+    font-size: large;
+    line-height: 0%;
+}
+
 .experience {
     font-size: large;
     line-height: 0%;
@@ -119,9 +129,66 @@ h1 {
 }
 
 .activities {
+    font-size: large;
     margin-bottom: 0%;
 }
 
 .ambassador {
     margin-top: 0%;
+}
+
+/*portfolio*/
+.digital_media,
+.paintings,
+.photography {
+    font-family: bevan;
+    font-size: x-large;
+    text-align: center;
+    padding-top: 15%;
+    padding-bottom: 10%;
+}
+
+/*digital_media*/
+.design_1,
+.design_2,
+.design_3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0%;
+    margin-top: 7%;
+}
+
+.design_1:hover,
+.design_2:hover,
+.design_3:hover {
+    opacity: 0.5
+}
+
+/*painting*/
+.painting_1,
+.painting_2,
+.painting_3,
+.painting_4,
+.photo_1,
+.photo_2,
+.photo_3,
+.photo_4 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0%;
+    margin-top: 7%;
+}
+
+
+/*subheaders*/ 
+.professional_header,
+.personal_header,
+.digital_media_header,
+.paintings_header,
+.photography_header {
+    font-family: bevan;
+    font-size: large;
+    text-align: left;
 }
