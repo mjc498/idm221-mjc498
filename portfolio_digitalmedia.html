@@ -9,16 +9,30 @@
 <body>
 
 <!--hamburger-->
-    <a href="./home.html">Home</a>
-    <a href="./about.html">About</a>
-    <a href="./resume.html">Resume</a>
-    <a href="./portfolio.html">Portfolio</a>
-    <a href="./contact.html">Contact</a>
+<nav>
+    <div class="navbar">
+        <div class="container nav-container">
+            <input class="checkbox" type="checkbox"/>
+                <div class="hamburger-lines">
+                    <span class="line line1"></span>
+                    <span class="line line2"></span>
+                    <span class="line line3"></span>
+                </div>  
+            <div class="menu-items">
+                <li><a href="./home.html">HOME</a></li>
+                <li><a href="./about.html">ABOUT</a></li>
+                <li><a href="./resume.html">RESUME</a></li>
+                <li><a href="./portfolio.html">PORTFOLIO</a></li>
+                <li><a href="./contact.html">CONTACT</a></li>
+            </div>
+        </div>
+    </div>
+</nav>
 
 <!--heading-->
 <a style="text-decoration: none" href="./portfolio.html">
     <h1 class="portfolio">
-        Portfolio
+        PORTFOLIO
     </h1>
 </a>
 
@@ -35,7 +49,7 @@
         <a href="design_1.html">
             <img
                 alt="Adobe Photoshop digital composition showcasing expressive black and white lines "
-                class="design_1"
+                class="image_design"
                 height="auto"
                 loading="eager"
                 src="./graphics/design_1.webp"
@@ -43,7 +57,7 @@
         </a>
         <center>
             <i>Expressive Line</i> (2023)<br  /></center>
-        <center class="design_2caption">
+        <center class="caption">
             Adobe Photoshop and Adobe Illustrator</center>
     </div>
     <br  />
@@ -53,7 +67,7 @@
         <a href="design_2.html">
             <img
                 alt="Adobe Photoshop digital composition showcasing black and white shapes and patterns"
-                class="design_2"
+                class="image_design"
                 height="auto"
                 loading="eager"
                 src="./graphics/design_2.webp"
@@ -61,7 +75,7 @@
         </a>   
         <center>
             <i>Shape and Pattern</i> (2023)<br  /></center>
-        <center>
+        <center class="caption">
             Adobe Photoshop and Adobe Illustrator</center>
     <br  />
 
@@ -70,7 +84,7 @@
         <a href="design_3.html">
             <img 
                 alt="Adobe Photoshop digital composition showcasing various translation of value"
-                class="design_3"
+                class="image_design"
                 height="auto"
                 loading="eager"
                 src="./graphics/design_3.webp"
@@ -78,9 +92,22 @@
         </a>
         <center>
             <i>Value Translations</i> (2023)<br  /></center>
-        <center>
+        <center class="caption">
             Adobe Photoshop and Illustrator</center>
     </div>
+
+<!--footer-->
+<footer class="footer">
+    <p class="footer_text">
+        <a class="footer_text" href="./home.html">Home</a> |
+        <a class="footer_text" href="./about.html">About</a> |
+        <a class="footer_text" href="./resume.html">Resume</a> |
+        <a class="footer_text" href="./portfolio.html">Portfolio</a> |
+        <a class="footer_text" href="./contact.html">Contact</a><br  />
+        <br  />Maria-Louisa Ching<br  />
+        <a class="footer_text" href="mjc498@drexel.edu">mjc498@drexel.edu</a>
+    </p>
+</footer>
 
 </body>
 </html>
