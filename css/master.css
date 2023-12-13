@@ -5,6 +5,7 @@
     font-weight: 100;
     font-style: normal;
 }
+
 @font-face {
     font-family: bevan;
     src: url(../fonts/bevan/bevan_italic.ttf) format("truetype");
@@ -39,6 +40,72 @@
     color: var(--primary-text);
 }
 
+/*headers*/ 
+.professional_header,
+.personal_header,
+.digital_media_header,
+.paintings_header,
+.photography_header {
+    font-family: bevan;
+    font-size: large;
+    text-align: left;
+}
+
+/*captions*/
+.image_2caption,
+.image_3caption,
+.image_4caption,
+.image_5caption,
+.image_6caption,
+.design1_piece1caption,
+.design1_piece2caption,
+.design1_piece3caption,
+.design2_piece1caption,
+.design2_piece2caption,
+.design2_piece3caption,
+.design2_piece4caption,
+.design2_piece5caption,
+.design3_piece1caption,
+.design3_piece2caption,
+.design3_piece3caption,
+.painting_1caption,
+.painting_2caption,
+.painting_3caption,
+.painting_4caption {
+    font-family: koho_semibold
+}
+
+/*images*/
+.design_1,
+.design_2,
+.design_3,
+.design1_piece1,
+.design1_piece2,
+.design1_piece3,
+.design2_piece1,
+.design2_piece2,
+.design2_piece3,
+.design2_piece4,
+.design2_piece5,
+.design3_piece1,
+.design3_piece2,
+.design3_piece3,
+.painting_1,
+.painting_2,
+.painting_3,
+.painting_4,
+.photo_1,
+.photo_2,
+.photo_3,
+.photo_4 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0%;
+    margin-top: 7%;
+}
+
+/*body*/
 body {
     font-family: koho;
 }
@@ -83,30 +150,6 @@ h1 {
     font-size: x-large;
     text-align: center;
     padding-top: 5%;
-}
-
-/*captions*/
-.image_2caption,
-.image_3caption,
-.image_4caption,
-.image_5caption,
-.image_6caption,
-.design1_piece1caption,
-.design1_piece2caption,
-.design1_piece3caption,
-.design2_piece1caption,
-.design2_piece2caption,
-.design2_piece3caption,
-.design2_piece4caption,
-.design2_piece5caption,
-.design3_piece1caption,
-.design3_piece2caption,
-.design3_piece3caption,
-.painting_1caption,
-.painting_2caption,
-.painting_3caption,
-.painting_4caption {
-    font-family: koho_semibold
 }
 
 /*about_personal*/
@@ -161,43 +204,8 @@ h1 {
     opacity: 0.5
 }
 
-/*images*/
-.design_1,
-.design_2,
-.design_3,
-.design1_piece1,
-.design1_piece2,
-.design1_piece3,
-.design2_piece1,
-.design2_piece2,
-.design2_piece3,
-.design2_piece4,
-.design2_piece5,
-.design3_piece1,
-.design3_piece2,
-.design3_piece3,
-.painting_1,
-.painting_2,
-.painting_3,
-.painting_4,
-.photo_1,
-.photo_2,
-.photo_3,
-.photo_4 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 0%;
-    margin-top: 7%;
-}
-
-/*headers*/ 
-.professional_header,
-.personal_header,
-.digital_media_header,
-.paintings_header,
-.photography_header {
-    font-family: bevan;
-    font-size: large;
+.digital_media_header3 {
+    font-family: koho;
+    font-size: medium;
     text-align: left;
 }
