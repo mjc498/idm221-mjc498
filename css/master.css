@@ -149,13 +149,20 @@
     transform: rotate(-45deg);
 }
 
-/*captions*/
-.caption {
-    font-family: koho_semibold
+/*headers*/ 
+.professional_header,
+.personal_header,
+.digital_media_header,
+.paintings_header,
+.photography_header {
+    font-family: bevan;
+    font-size: large;
+    text-align: left;
 }
 
 /*images*/
 .image_design,
+.image_piece,
 .image_painting,
 .image_photo {
     display: block;
@@ -165,16 +172,22 @@
     margin-top: 7%;
 }
 
+/*captions*/
+.caption {
+    font-family: koho_semibold
+}
+
+/*main*/
+main {
+    flex: 1;
+}
+
 /*body*/
 body {
     font-family: koho;
     display: flex;
     flex-direction: column;
     min-height: 130vh;
-}
-
-main {
-    flex: 1;
 }
 
 /*home*/
@@ -188,6 +201,12 @@ h1 {
     font-family: bevan;
 }
 
+.home_text {
+    font-family: bevan;
+    font-size: medium;
+    text-align: center;
+}
+
 .image_1 {
    display: block;
    margin-left: auto;
@@ -195,12 +214,6 @@ h1 {
    padding-top: 5%;
    padding-bottom: 5%;
    width: 85%;
-}
-
-.home_text {
-    font-family: bevan;
-    font-size: medium;
-    text-align: center;
 }
 
 /*about*/
@@ -219,6 +232,11 @@ h1 {
     padding-top: 5%;
 }
 
+.professional a:hover,
+.personal a:hover {
+    color: #E09C9C;
+}
+
 .image_about {
     display: block;
     margin-left: auto;
@@ -227,26 +245,20 @@ h1 {
 }
 
 /*resume*/
-.education,
-.experience {
+.section {
     font-size: large;
     line-height: 0%;
-}
-
-.drexel,
-.comcast,
-.library,
-.class {
-    line-height: 50%;
-}
-
-.activities {
-    font-size: large;
+    margin-top: 0%;
     margin-bottom: 0%;
 }
 
-.ambassador {
+.list {
     margin-top: 0%;
+    font-size: medium;
+}
+
+.title {
+    margin-bottom: 2%;
 }
 
 /*portfolio*/
@@ -258,11 +270,22 @@ h1 {
     padding-bottom: 10%;
 }
 
+.portfolio_option a:hover {
+    color:#E09C9C
+}
+
+/*digital media*/
 .digital_media_header3 {
     font-family: koho;
     font-size: medium;
     text-align: left;
+    line-height: 0%;
 }
+
+.digital_media_header {
+    line-height: 0%
+}
+
 
 .image_design:hover {
     opacity: 0.5
@@ -294,4 +317,6 @@ h1 {
 
 .footer_text {
     background-color: #E09C9C;
+    font-family: koho_light;
+    text-decoration: none;
 }
