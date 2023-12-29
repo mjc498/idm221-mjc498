@@ -174,7 +174,8 @@
 
 /*captions*/
 .caption {
-    font-family: koho_semibold
+    font-family: koho_semibold;
+    text-align: center;
 }
 
 /*main*/
