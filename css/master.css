@@ -178,6 +178,10 @@
     text-align: center;
 }
 
+.caption_italic {
+    text-align: center;
+}
+
 /*main*/
 main {
     flex: 1;
