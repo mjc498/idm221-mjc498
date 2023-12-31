@@ -178,7 +178,8 @@
     text-align: center;
 }
 
-.caption_italic {
+.caption_italic,
+.contact_text {
     text-align: center;
 }
 
@@ -328,6 +329,7 @@ h1 {
     padding: 10px;
     width: auto;
     margin-bottom: 0px;
+    text-align: center;
 }
 
 /*footer*/
