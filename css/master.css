@@ -44,7 +44,6 @@
     --heading-text: #20254F;
     --footer-background: #E09C9C;
     --other: #f5f5f5;
-
     background-color: var(--primary-surface);
     color: var(--primary-text);
 }
