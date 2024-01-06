@@ -178,6 +178,7 @@ h2 {
 .caption_italic,
 .contact_text {
     text-align: center;
+    margin-bottom: 0%;
 }
 
 /*main*/
@@ -261,6 +262,7 @@ h1 {
 
 .list {
     margin-top: 0%;
+    margin-bottom: 3%;
     font-size: medium;
 }
 
@@ -282,17 +284,13 @@ h1 {
 }
 
 /*digital media*/
-.digital_media_header3 {
-    font-family: koho;
-    font-size: medium;
-    text-align: left;
-    line-height: 0%;
-}
-
 .digital_media_header {
     line-height: 0%
 }
 
+.digital_media_header2 {
+    text-align: center;
+}
 
 .image_design:hover {
     opacity: 0.5
